@@ -1,5 +1,8 @@
 # Match - Play Sports And Meet Friends.
 
+### This is a "Code Preview" repository
+#### I uploaded a minimal part of the App Code only.
+
 ![photo_2021-07-22 10 38 27](https://user-images.githubusercontent.com/68952247/126604599-f1ff7fa9-b56f-42c1-ad58-a028bd44bdc3.jpeg)
 
 
